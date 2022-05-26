@@ -1,0 +1,9 @@
+C:\Users\nswindall\Desktop\Tutorials\Godot\HeistMeisters\HesitMeistersCSharp\.mono\temp\bin\Debug\HeistMeisters.dll
+C:\Users\nswindall\Desktop\Tutorials\Godot\HeistMeisters\HesitMeistersCSharp\.mono\temp\bin\Debug\HeistMeisters.pdb
+C:\Users\nswindall\Desktop\Tutorials\Godot\HeistMeisters\HesitMeistersCSharp\.mono\temp\obj\Debug\HeistMeisters.csproj.AssemblyReference.cache
+C:\Users\nswindall\Desktop\Tutorials\Godot\HeistMeisters\HesitMeistersCSharp\.mono\temp\obj\Debug\HeistMeisters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nswindall\Desktop\Tutorials\Godot\HeistMeisters\HesitMeistersCSharp\.mono\temp\obj\Debug\HeistMeisters.AssemblyInfoInputs.cache
+C:\Users\nswindall\Desktop\Tutorials\Godot\HeistMeisters\HesitMeistersCSharp\.mono\temp\obj\Debug\HeistMeisters.AssemblyInfo.cs
+C:\Users\nswindall\Desktop\Tutorials\Godot\HeistMeisters\HesitMeistersCSharp\.mono\temp\obj\Debug\HeistMeisters.csproj.CoreCompileInputs.cache
+C:\Users\nswindall\Desktop\Tutorials\Godot\HeistMeisters\HesitMeistersCSharp\.mono\temp\obj\Debug\HeistMeisters.dll
+C:\Users\nswindall\Desktop\Tutorials\Godot\HeistMeisters\HesitMeistersCSharp\.mono\temp\obj\Debug\HeistMeisters.pdb

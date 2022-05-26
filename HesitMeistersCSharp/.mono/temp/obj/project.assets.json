@@ -1,0 +1,52 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": []
+  },
+  "packageFolders": {
+    "C:\\Users\\nswindall\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nswindall\\Desktop\\Tutorials\\Godot\\HeistMeisters\\HesitMeistersCSharp\\HeistMeisters.csproj",
+      "projectName": "HeistMeisters",
+      "projectPath": "C:\\Users\\nswindall\\Desktop\\Tutorials\\Godot\\HeistMeisters\\HesitMeistersCSharp\\HeistMeisters.csproj",
+      "packagesPath": "C:\\Users\\nswindall\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nswindall\\Desktop\\Tutorials\\Godot\\HeistMeisters\\HesitMeistersCSharp\\.mono\\temp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\nswindall\\NuGet.Config",
+        "C:\\Users\\nswindall\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
